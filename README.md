@@ -17,7 +17,7 @@ URL
 
 - Trará uma lista com todos os check-in's
 ```
-- [
+[
 	{
 		"coord": {
 			"lat": "-12.9873",
