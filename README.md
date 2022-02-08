@@ -119,7 +119,8 @@ URL
 ### URL: /airq
 - Esse end point é responsavel por trazer todos os logs do banco de dados.
 ### Parametros
-- Nenhum.
-
+- **Query:**
+	- latitude (Number)
+	- longitude (Number
 ### Reponses
 #### Status:200
