@@ -105,9 +105,9 @@ URL
 ### Method: Get
 - Esse end point é responsavel por fazer uma consulta num API fornecidade pelo https://openweathermap.org/
 ### Parametros
-- Query
- **- latitude (Number)**
- **- longitude (Number)**
+- **Query:**
+ - latitude (Number)
+ - longitude (Number
 ### URL: /weather
 ### Reponses
 #### Status:200
