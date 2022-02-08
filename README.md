@@ -117,7 +117,7 @@ URL
 ## Air Quality Information
 ### Method: Get
 ### URL: /airq
-- Esse end point é responsavel por trazer todos os logs do banco de dados.
+- Esse end point é responsavel por uma consulta num API fornecidade pelo https://aqicn.org/json-api/doc/
 ### Parametros
 - **Query:**
 	- latitude (Number)
