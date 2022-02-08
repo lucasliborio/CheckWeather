@@ -106,8 +106,8 @@ URL
 - Esse end point é responsavel por fazer uma consulta num API fornecidade pelo https://openweathermap.org/
 ### Parametros
 - **Query:**
- - latitude (Number)
- - longitude (Number
+latitude (Number)
+longitude (Number
 ### URL: /weather
 ### Reponses
 #### Status:200
