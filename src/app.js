@@ -7,6 +7,8 @@ const app = express();
 app.use(cors())
 app.use(express.json())
 
+const port = process.env.PORT || 3000
+
 const geoInformation = require('../src/routes/geoInformation')
 const weather = require('../src/routes/weather')
 const airq = require('../src/routes/airq')
@@ -16,6 +18,6 @@ app.use("/weather", weather)
 app.use("/airq", airq)
 
 
-app.listen(3000, ()=>{
-    console.log('App listening on port 3000')
+app.listen(port, ()=>{
+    console.log('App listening on port ' + port)
 })
