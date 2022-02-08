@@ -7,7 +7,7 @@
 
 ## Geoinformation
 ### Method: Get
-- Esse end point é responsavel por trazer todos os logs do banco de dados.
+- Esse endpoint é responsável por trazer todos os logs do banco de dados.
 ### Parametros
 - Nenhum.
 ### URL: /geoinformation
@@ -104,7 +104,7 @@
 ## Weather Information
 ### Method: Get
 ### URL: /weather
-- Esse end point é responsavel por fazer uma consulta numa API fornecida pelo site https://openweathermap.org/
+- Esse endpoint é responsável por fazer uma consulta numa API fornecida pelo site https://openweathermap.org/
 ### Parametros
 - **Query:**
 	- latitude (Number)
@@ -165,7 +165,7 @@
 ## Air Quality Information
 ### Method: Get
 ### URL: /airq
-- Esse end point é responsavel por uma consulta numa API fornecida pelo site  https://aqicn.org/json-api/doc/ para colher informações a respeito da qualidade do AR.
+- Esse endpoint é responsável por uma consulta numa API fornecida pelo site  https://aqicn.org/json-api/doc/ para colher informações a respeito da qualidade do AR.
 ### Parametros
 
 - **Query:**
@@ -173,6 +173,7 @@
 	- longitude (Number
 #### Example URL: API_URL/airq?latitude=-12.9861&longitude=-38.5203
 ### Reponses
+#### Status:200
 ```
 {
 	"status": "ok",
@@ -426,4 +427,3 @@
 	}
 }
 ```
-#### Status:200
