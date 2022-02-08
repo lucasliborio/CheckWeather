@@ -8,10 +8,10 @@ URL
 ## Geoinformation
 ### Method: Get
 - Esse end point é responsavel por trazer todos os logs do banco de dados.
-
 ### Parametros
 - Nenhum.
-
+### URL
+- /geoinformation
 ### Reponses
 ### Status:200
 
