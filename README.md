@@ -100,5 +100,24 @@ URL
 		"__v": 0
 	},
 ]
-
 ```
+## weatherInformation
+### Method: Get
+- Esse end point é responsavel por fazer uma consulta num API fornecidade pelo https://openweathermap.org/
+### Parametros
+- Query
+ **- latitude (Number)**
+ **- longitude (Number)**
+### URL: /weather
+### Reponses
+#### Status:200
+
+
+## AirQualityInformation
+### Method: Get
+- Esse end point é responsavel por trazer todos os logs do banco de dados.
+### Parametros
+- Nenhum.
+### URL: /weather
+### Reponses
+#### Status:200
