@@ -99,7 +99,7 @@
 	},
 ]
 ```
-## Weather Information
+## Rota - Weather Information
 ### URL: /weather
 ### Request Method: GET
 
@@ -161,7 +161,7 @@
 #### Status:200
 
 
-## Air Quality Information
+## Rota - Air Quality Information
 ### URL: /airq
 ### Request Method: GET
 - Esse endpoint é responsável por uma consulta numa API fornecida pelo site  https://aqicn.org/json-api/doc/ para colher informações a respeito da qualidade do AR.
@@ -172,7 +172,7 @@
 	- longitude (Number
 #### Example URL: API_URL/airq?latitude=-12.9861&longitude=-38.5203
 ### Response
-#### Status:200
+- Status:200
 ```
 {
 	"status": "ok",
