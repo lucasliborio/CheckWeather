@@ -6,11 +6,11 @@
 # Endpoints
 
 ## Geoinformation
-### Method: Get
+### URL: /geoinformation
+### Request Method: GET
 - Esse endpoint é responsável por trazer todos os logs do banco de dados.
 ### Parametros
 - Nenhum.
-### URL: /geoinformation
 ### Response
 #### Status:200
 
@@ -102,8 +102,9 @@
 ]
 ```
 ## Weather Information
-### Method: Get
 ### URL: /weather
+### Request Method: GET
+
 - Esse endpoint é responsável por fazer uma consulta numa API fornecida pelo site https://openweathermap.org/
 ### Parametros
 - **Query:**
@@ -163,8 +164,8 @@
 
 
 ## Air Quality Information
-### Method: Get
 ### URL: /airq
+### Request Method: GET
 - Esse endpoint é responsável por uma consulta numa API fornecida pelo site  https://aqicn.org/json-api/doc/ para colher informações a respeito da qualidade do AR.
 ### Parametros
 
