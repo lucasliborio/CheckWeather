@@ -11,8 +11,7 @@
 ### Parametros
 - Nenhum.
 ### Response
-- Status:200
-
+- Status: 200
 
 - Trará uma lista com todos os check-in's
 ```
