@@ -4,7 +4,7 @@
 
 # Endpoints
 
-## Geoinformation
+## Rota - Geoinformation
 ### URL: /geoinformation
 ### Request Method: GET
 - Esse endpoint é responsável por trazer todos os logs do banco de dados.
