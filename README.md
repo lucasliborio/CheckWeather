@@ -11,7 +11,7 @@
 ### Parametros
 - Nenhum.
 ### URL: /geoinformation
-### Reponses
+### Response
 #### Status:200
 
 
@@ -110,7 +110,7 @@
 	- latitude (Number)
 	- longitude (Number
 #### Example URL: API_URL/weather?latitude=-12.9861&longitude=-38.5203
-### Reponses
+### Response
 ```
 {
 	"coord": {
@@ -172,7 +172,7 @@
 	- latitude (Number)
 	- longitude (Number
 #### Example URL: API_URL/airq?latitude=-12.9861&longitude=-38.5203
-### Reponses
+### Response
 #### Status:200
 ```
 {
