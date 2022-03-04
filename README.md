@@ -1,7 +1,6 @@
 # Check Weather - API Documentation
 ## Parte back-end do projeto CheckWeather
-
-## URL : https://overjoyed-scrawny-tyrannosaurus.glitch.me/
+## URL da aplicação : https://overjoyed-scrawny-tyrannosaurus.glitch.me/
 
 # Endpoints
 
